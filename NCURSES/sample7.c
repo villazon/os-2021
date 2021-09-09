@@ -1,4 +1,4 @@
-# Source https://stackoverflow.com/questions/32088603/how-to-keep-stdin-at-bottom-the-terminal-in-c
+// Source https://stackoverflow.com/questions/32088603/how-to-keep-stdin-at-bottom-the-terminal-in-c
 #include <curses.h>
 
 int
